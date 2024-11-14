@@ -1,0 +1,43 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SECO
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Marcio Lima
+    family-names: Inácio
+    email: mlinacio@dei.uc.pt
+    affiliation: Centre for Informatics and Systems of the of Coimbra
+    orcid: 'https://orcid.org/0000-0002-0875-4574'
+  - given-names: Hugo
+    family-names: Gonçalo Oliveira
+    email: hroliv@dei.uc.pt
+    affiliation: Centre for Informatics and Systems of the of Coimbra
+    orcid: 'https://orcid.org/0000-0002-5779-8645'
+repository-code: 'https://github.com/NLP-CISUC/SECO-Python'
+url: >-
+  https://computationalcreativity.net/iccc24/papers/ICCC24_paper_143.pdf
+repository: 'https://github.com/NLP-CISUC/SECO-LLM/'
+abstract: >-
+  Partial reimplementation of the SECO riddle generation
+  tool using Python.
+keywords:
+  - humor generation
+  - riddle generation
+  - portuguese
+license: MIT
+preferred-citation:
+  authors:
+    - family-names: Inácio
+      given-names: Marcio Lima
+    - family-names: Gonçalo Oliveira
+      given-names: Hugo
+    title: Generation of Punning Riddles in Portuguese with Prompt Chaining
+    type: conference-paper
+    year: 2024
+    collection-title: Proceedings of the 15th International Conference on Computational Creativity (ICCC'24)
+    collection-type: proceedings
